@@ -3,7 +3,9 @@
 Estudante em em Sistemas de Informação. 
 <br>
 técnico em manutenção e suporte em informática.
+<br>
 conhecimento em programação Avançado (PYTHON, Django ,Tkinter)
+<br>
 conhecimento intermediário em JAVA.
 <div>
   <a href="https://https://github.com/Ayrton54">
