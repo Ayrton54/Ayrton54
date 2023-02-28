@@ -12,8 +12,8 @@ conhecimento intermediário em JAVA.
  
 <div>
   <a href="https://github.com/Ayrton54">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ayrton54&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrton54&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
    
 </div>
