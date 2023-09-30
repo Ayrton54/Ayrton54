@@ -4,9 +4,31 @@ Estudante em em Sistemas de Informação.
 <br>
 técnico em manutenção e suporte em informática.
 <br>
-conhecimento em programação Avançado (PYTHON, Django ,Tkinter)
-<br>
-conhecimento intermediário em JAVA.
+### Conhecimentos
+   <ul>
+        <li>Linguagens de programação:</li>
+        <ul>
+            <li>Java</li>
+            <li>Python</li>
+            <li>JavaScript</li>
+        </ul>
+        <li>Frameworks:</li>
+        <ul>
+            <li>React</li>
+            <li>Spring</li>
+            <li>Spring Boot</li>
+        </ul>
+        <li>Banco de Dados:</li>
+        <ul>
+            <li>MySQL</li>
+            <li>SQL</li>
+        </ul>
+        <li>Front-end:</li>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+    </ul>
 <div>
   <a href="https://github.com/Ayrton54">
  
