@@ -6,12 +6,13 @@ Me chamo Ayrton Lopes. Sou uma pessoa que quanto mais aprende mais se apaixona p
 Estudante em em Sistemas de Informação. 
 <br>
 técnico em manutenção e suporte em informática.
-</p>  
+</p>
+
 ## Conecte-se comigo
    [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayrtonlopes54@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ayrton-lopes/)
+  
    
-
 ## Habilidades
 ### Minhas Linguagens de Marcação e Estilos
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
